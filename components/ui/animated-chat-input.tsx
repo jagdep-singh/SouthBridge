@@ -1,6 +1,5 @@
-// replace src/components/ui/animated-chat-input.tsx
 "use client";
-
+//AI Used also got it from 21st.dev
 import React, { useEffect, useRef, useState } from "react";
 import { cn } from "@/lib/utils";
 import { Command, Paperclip, SendIcon, XIcon, LoaderIcon, MonitorIcon, BrainCircuit } from "lucide-react";

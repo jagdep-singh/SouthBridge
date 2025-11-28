@@ -1,21 +1,15 @@
 "use client";
-
+//Ai used
 import { useEffect, useRef, useCallback, useTransition } from "react";
 import { useState } from "react";
 import { cn } from "@/lib/utils";
 import {
     ImageIcon,
-    FileUp,
-    Figma,
     MonitorIcon,
-    CircleUserRound,
-    ArrowUpIcon,
     Paperclip,
-    PlusIcon,
     SendIcon,
     XIcon,
     LoaderIcon,
-    Sparkles,
     Command,
 } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
