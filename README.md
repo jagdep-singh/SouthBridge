@@ -71,6 +71,7 @@ I used AI assistance while working on parts of this project.
 I reviewed and refined all generated code, ensuring correctness and quality.  
 All final architecture, structure, and decisions are mine.
 Files contain the comment ```//AI used``` where ai was used 
+Also components have been taken from 21st.dev 
 
 
 
